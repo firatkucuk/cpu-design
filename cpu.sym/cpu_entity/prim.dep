@@ -1,0 +1,6 @@
+ieeevarnumeric_stdieee.sym/numeric_std/prim.var
+ieeesrcnumeric_stdnumstd.vhd
+ieeevarstd_logic_1164ieee.sym/std_logic_1164/prim.var
+ieeesrcstd_logic_1164stdlogic.vhd
+.varcpu_entitycpu.sym/cpu_entity/prim.var
+.srccpu_entitycpu.sym/cpu.vhdl
